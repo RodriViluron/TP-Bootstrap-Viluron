@@ -1,0 +1,45 @@
+.containerP {
+    padding: 16px;
+    margin: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 40px;
+    font-family: georgia;
+}
+
+.cardContainer {
+    border: 0%;
+    
+}
+
+.employedContainer{
+    justify-content: center;
+}
+.buttonGroup {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 40px;
+}
+.headerM {
+    background-color: #383737 !important;
+}
+.header1 {
+    font-family: georgia;
+    color: #F1F0E8;
+}
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #F1F0E8 !important;
+}
+.footer {
+    color: #383737;
+    font-family: Georgia;
+    justify-content: space-evenly;
+}
+
+.buttonSearch {
+    border-color:#F1F0E8;
+    color:#F1F0E8;
+}
